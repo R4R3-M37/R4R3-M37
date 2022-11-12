@@ -5,7 +5,7 @@ I am a junior web developer working with ```TypeScript``` + ```React``` + ```Tai
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4R3-M37&layout=compact&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/anuraghazra/github-readme-stats)
 
-## Basic knowledge: 
+## Basic knowledge:
 
 ```
 ├── HTML
@@ -28,6 +28,9 @@ I am a junior web developer working with ```TypeScript``` + ```React``` + ```Tai
 
 # Latest projects
 
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-todo-effector)
-    
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-pizza-effector)
+<div>
+  <div style="display: flex">
+    <a href="https://github.com/R4R3-M37/react-todo-effector" style='margin-right: 5px'><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
+    <a href="https://github.com/R4R3-M37/react-pizza-effector" style='margin-left: 5px'><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
+  </div>
+</div>
