@@ -28,13 +28,6 @@ I am a junior web developer working with ```TypeScript``` + ```React``` + ```Tai
 
 # Latest projects
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">JavaScript</b></td>
-    <td><b style="font-size:30px">TypeScript</b></td>
- </tr>
- <tr>
-    <td>[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-todo-effector)</td>
-    <td>[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-pizza-effector)</td>
- </tr>
-</table>
+[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-todo-effector)
+    
+[![Card](https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/R4R3-M37/react-pizza-effector)
