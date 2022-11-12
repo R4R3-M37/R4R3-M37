@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=R4R3-M37&fontSize=100&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=65)
-
 I am a junior web developer working with ```TypeScript``` + ```React``` + ```Tailwind CSS``` stack technologies.
 
 [![codewars](https://www.codewars.com/users/nksbsk/badges/large)](https://www.codewars.com/users/nksbsk)
@@ -30,8 +29,8 @@ I am a junior web developer working with ```TypeScript``` + ```React``` + ```Tai
 # Latest projects
 
 <div>
-  <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/R4R3-M37/react-todo-effector" style='margin-right: 5px'><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
-    <a href="https://github.com/R4R3-M37/react-pizza-effector" style='margin-left: 5px'><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
+  <div style="display: flex; justify-content: space-evenly;">
+    <a href="https://github.com/R4R3-M37/react-todo-effector"><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-todo-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
+    <a href="https://github.com/R4R3-M37/react-pizza-effector"><img src="https://github-readme-stats.vercel.app/api/pin?username=R4R3-M37&repo=react-pizza-effector&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F" /></a>
   </div>
 </div>
